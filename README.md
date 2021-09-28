@@ -2,8 +2,8 @@
 
 I am a junior full stack developer recently graduated from Makers Academy.
 
-- 🌱 I’m currently focussing on React
-- 👯 I’m currently collaborating on [Spotify Roadtrip](https://github.com/tiffanyvallo/spotify-roadtrip)
+- 🌱 I’m currently focussing on learning React
+- 👯 Right now I’m collaborating on [Spotify Roadtrip](https://github.com/tiffanyvallo/spotify-roadtrip)
 - 📝 Find my CV [here](https://github.com/fwill22/CV)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/finn-w-102783189/)
 <!--
